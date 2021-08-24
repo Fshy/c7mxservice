@@ -1,0 +1,5432 @@
+[
+  {
+    "make": "851 INTERNATIONAL",
+    "model": "CONCRETE MIXER",
+    "id": "CON",
+    "group": "COMM"
+  },
+  {
+    "make": "851 INTERNATIONAL",
+    "model": "BITUMEN TANKER",
+    "id": "BIT",
+    "group": "COMM"
+  },
+  {
+    "make": "851 INTERNATIONAL",
+    "model": "TRUCK",
+    "id": "D40",
+    "group": "COMM"
+  },
+  {
+    "make": "A37 DAF WATER TRUCK",
+    "model": "TRUCK",
+    "id": "B37",
+    "group": "COMM"
+  },
+  {
+    "make": "A38 DAF SEWERAGE TRUCK",
+    "model": "TRUCK",
+    "id": "B38",
+    "group": "COMM"
+  },
+  {
+    "make": "A42 CLARK",
+    "model": "FORKLIFT",
+    "id": "B84",
+    "group": "COMM"
+  },
+  {
+    "make": "A47 VW TRANSPORTER",
+    "model": "COMMUTER",
+    "id": "D17",
+    "group": "4"
+  },
+  {
+    "make": "A67 DAF",
+    "model": "CF85 TRACTOR UNIT",
+    "id": "F25",
+    "group": "COMM"
+  },
+  {
+    "make": "A67 DAF",
+    "model": "TRUCK",
+    "id": "F60",
+    "group": "COMM"
+  },
+  {
+    "make": "A69 EXCAVATOR",
+    "model": "FLAT ALLIS",
+    "id": "F28",
+    "group": "COMM"
+  },
+  {
+    "make": "A70 WALDON",
+    "model": "LOADER",
+    "id": "F28",
+    "group": "COMM"
+  },
+  {
+    "make": "A71 CHAMPION",
+    "model": "ROLLER",
+    "id": "F31",
+    "group": "COMM"
+  },
+  {
+    "make": "A72 FRUEHAUF",
+    "model": "TRAILER",
+    "id": "F35",
+    "group": "COMM"
+  },
+  {
+    "make": "A73 LOADCRAFT",
+    "model": "TRAILER",
+    "id": "F37",
+    "group": "COMM"
+  },
+  {
+    "make": "MOTORCYCLE",
+    "model": "SCOOTER",
+    "id": "F47",
+    "group": "8"
+  },
+  {
+    "make": "ABG TITAN",
+    "model": "PAVER FINISHER",
+    "id": "PAV",
+    "group": "COMM"
+  },
+  {
+    "make": "ALPHA ROMEO",
+    "model": "HATCHBACK",
+    "id": "2",
+    "group": "1"
+  },
+  {
+    "make": "AISA COMBIE",
+    "model": "DIESEL BUS",
+    "id": "5",
+    "group": "COMM"
+  },
+  {
+    "make": "ATLAS",
+    "model": "HYD.DRILL",
+    "id": "HYD",
+    "group": "COMM"
+  },
+  {
+    "make": "AUDI",
+    "model": "Q3",
+    "id": "F18",
+    "group": "6"
+  },
+  {
+    "make": "AUDI",
+    "model": "A6",
+    "id": "7",
+    "group": "7"
+  },
+  {
+    "make": "AUDI",
+    "model": "A4",
+    "id": "B69",
+    "group": "6"
+  },
+  {
+    "make": "AUDI",
+    "model": "TT COUPE",
+    "id": "B70",
+    "group": "7"
+  },
+  {
+    "make": "AUDI",
+    "model": "Q7",
+    "id": "B72",
+    "group": "8"
+  },
+  {
+    "make": "AUDI",
+    "model": "Q5",
+    "id": "B99",
+    "group": "7"
+  },
+  {
+    "make": "AUSTIN",
+    "model": "MINI MAYFAIR SALOON",
+    "id": "7",
+    "group": "1"
+  },
+  {
+    "make": "AUSTIN",
+    "model": "MINI METRO",
+    "id": "8",
+    "group": "1"
+  },
+  {
+    "make": "AVELING",
+    "model": "BARFORD DUMP TRUCK",
+    "id": "9",
+    "group": "COMM"
+  },
+  {
+    "make": "B43 VERUCCI",
+    "model": "MOTOR CYCLE",
+    "id": "A21",
+    "group": "8"
+  },
+  {
+    "make": "B67 ACURA",
+    "model": "MDX JEEP",
+    "id": "B67",
+    "group": "7"
+  },
+  {
+    "make": "BEDFORD",
+    "model": "ASTRA PANEL VAN",
+    "id": "11",
+    "group": "COMM"
+  },
+  {
+    "make": "BEDFORD",
+    "model": "TK TANK WAGON",
+    "id": "12",
+    "group": "COMM"
+  },
+  {
+    "make": "BEDFORD",
+    "model": "TRUCK",
+    "id": "13",
+    "group": "COMM"
+  },
+  {
+    "make": "BLUE BIRD",
+    "model": "BUS",
+    "id": "14",
+    "group": "COMM"
+  },
+  {
+    "make": "BMW",
+    "model": "315 SALOON",
+    "id": "15",
+    "group": "5"
+  },
+  {
+    "make": "BMW",
+    "model": "316 SALOON",
+    "id": "16",
+    "group": "5"
+  },
+  {
+    "make": "BMW",
+    "model": "316I SEDAN",
+    "id": "17",
+    "group": "5"
+  },
+  {
+    "make": "BMW",
+    "model": "318I",
+    "id": "18",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "320I",
+    "id": "19",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "323I",
+    "id": "20",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "325 SEDAN",
+    "id": "21",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "523I SALOON",
+    "id": "22",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "535I SALOON",
+    "id": "23",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "735 SEDAN",
+    "id": "24",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "532i",
+    "id": "25",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "M/3",
+    "id": "27",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "M5351",
+    "id": "28",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "id": "29A",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "116i",
+    "id": "29B",
+    "group": "5"
+  },
+  {
+    "make": "BMW",
+    "model": "316Ti SEDAN",
+    "id": "30B",
+    "group": "5"
+  },
+  {
+    "make": "BMW",
+    "model": "318TI",
+    "id": "3TI",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "GF-AL19",
+    "id": "D79",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "FUNDURO",
+    "id": "F15",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "523i SEDAN",
+    "id": "F44",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "540i",
+    "id": "D37",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "X5 M SUV",
+    "id": "D44",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "E65",
+    "id": "D87",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "525I",
+    "id": "525",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "Z3 ROADSTER",
+    "id": "Z3R",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "32Di SEDAN",
+    "id": "32D",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "X3",
+    "id": "X3",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "328I",
+    "id": "BMW",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "330D",
+    "id": "MW1",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "740I",
+    "id": "740",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "525 SALOON",
+    "id": "52S",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "740Li",
+    "id": "B21",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "530i",
+    "id": "B32",
+    "group": "8"
+  },
+  {
+    "make": "BMW",
+    "model": "630i",
+    "id": "B39",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "118i",
+    "id": "B59",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "X1 251",
+    "id": "D64",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "745i",
+    "id": "D85",
+    "group": "6"
+  },
+  {
+    "make": "BMW",
+    "model": "X12",
+    "id": "F21",
+    "group": "7"
+  },
+  {
+    "make": "BMW",
+    "model": "645 CI COUPE",
+    "id": "F63",
+    "group": "1"
+  },
+  {
+    "make": "BOBCAT",
+    "model": "NCL. BACKHOE",
+    "id": "30",
+    "group": "COMM"
+  },
+  {
+    "make": "BOBCAT",
+    "model": "LOADER",
+    "id": "3A",
+    "group": "COMM"
+  },
+  {
+    "make": "BOBCAT",
+    "model": "LOADER",
+    "id": "31A",
+    "group": "COMM"
+  },
+  {
+    "make": "BOBCAT",
+    "model": "BUGGY",
+    "id": "F33",
+    "group": "COMM"
+  },
+  {
+    "make": "BOMAG",
+    "model": "D/D ROLLER",
+    "id": "31",
+    "group": "COMM"
+  },
+  {
+    "make": "CADILLAC",
+    "model": "FLEETWOOD BROUGHAM",
+    "id": "32",
+    "group": "7"
+  },
+  {
+    "make": "CASE",
+    "model": "BACKHOE",
+    "id": "33",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "12F MOTOR GRADER",
+    "id": "34",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "215 TRACK EXCAVATOR",
+    "id": "35",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "225 EXCAVATOR",
+    "id": "36",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "12F MOTOR GRADER",
+    "id": "34",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "215 TRACK EXCAVATOR",
+    "id": "35",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "225 EXCAVATOR",
+    "id": "36",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "BACKHOE",
+    "id": "37",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "D3 TRACTOR",
+    "id": "38",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "LOADER",
+    "id": "39",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "246B WHEEL LOADER",
+    "id": "482",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "432D BACKHOE LOADER",
+    "id": "483",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "938G WHEEL LOADER",
+    "id": "484",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "GRADER",
+    "id": "48Z",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "FRIBT END LOADER",
+    "id": "D55",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "EXCAVATOR",
+    "id": "F34",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "PNEUMATIC ROLLER",
+    "id": "48",
+    "group": "COMM"
+  },
+  {
+    "make": "CATERPILLAR",
+    "model": "950 WHEEL LOADER",
+    "id": "9WL",
+    "group": "COMM"
+  },
+  {
+    "make": "CERES",
+    "model": "TRUCK",
+    "id": "40",
+    "group": "COMM"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "DELIVERY TRUCK",
+    "id": "42",
+    "group": "COMM"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "PANEL VAN",
+    "id": "43",
+    "group": "COMM"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "BLAZER",
+    "id": "44",
+    "group": "7"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "PICKUP",
+    "id": "45",
+    "group": "COMM"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TRACKER",
+    "id": "46",
+    "group": "6"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "WRECKER",
+    "id": "A47",
+    "group": "S.T."
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "WRECKER",
+    "id": "48",
+    "group": "S.T."
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CRUZE SEDAN LS",
+    "id": "D54",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "id": "F62",
+    "group": "5"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "id": "D56",
+    "group": "7"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "AVEO",
+    "id": "AVE",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SPARK",
+    "id": "SPK",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "OPTRA",
+    "id": "OPT",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "OPTRA",
+    "id": "OPA",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "CAPTIVA",
+    "id": "CPT",
+    "group": "7"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EPICA",
+    "id": "EPC",
+    "group": "2"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "AVALANCHE",
+    "id": "B14",
+    "group": "7"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "VIVANT",
+    "id": "VIV",
+    "group": "1"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SONIC LS",
+    "id": "F49",
+    "group": "1"
+  },
+  {
+    "make": "CHEROKEE",
+    "model": "JEEP",
+    "id": "JEE",
+    "group": "7"
+  },
+  {
+    "make": "CHEROKEE",
+    "model": "JEEP",
+    "id": "A1",
+    "group": "7"
+  },
+  {
+    "make": "CHEROKEE",
+    "model": "JEEP",
+    "id": "A41",
+    "group": "7"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "SUV",
+    "id": "48",
+    "group": "7"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "LEBARON",
+    "id": "49",
+    "group": "2"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "COMANCHE JEEP",
+    "id": "50",
+    "group": "7"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "STATION WAGON",
+    "id": "51G",
+    "group": "7"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "P T CRUISER",
+    "id": "PTC",
+    "group": "6"
+  },
+  {
+    "make": "CHRYSLER",
+    "model": "WRANGLER",
+    "id": "WRA",
+    "group": "7"
+  },
+  {
+    "make": "CLIMAX",
+    "model": "CONQUEST",
+    "id": "50",
+    "group": "COMM"
+  },
+  {
+    "make": "CLIMAX",
+    "model": "DA40 FORKLIFT",
+    "id": "51",
+    "group": "COMM"
+  },
+  {
+    "make": "CMC",
+    "model": "FINE",
+    "id": "D24",
+    "group": "4"
+  },
+  {
+    "make": "CMC",
+    "model": "FLYING",
+    "id": "D25",
+    "group": "4"
+  },
+  {
+    "make": "CONVEYANCE",
+    "model": "TC5",
+    "id": "53",
+    "group": "COMM"
+  },
+  {
+    "make": "CONVEYANCE",
+    "model": "TC6",
+    "id": "54",
+    "group": "COMM"
+  },
+  {
+    "make": "CRANE",
+    "model": "TRUCK",
+    "id": "TRU",
+    "group": "COMM"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "CIELO SALOON",
+    "id": "56",
+    "group": "1"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "ESPERO",
+    "id": "57",
+    "group": "2"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "NUBRIA",
+    "id": "58",
+    "group": "3"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "RACER SALOON",
+    "id": "59",
+    "group": "2"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "SALOON",
+    "id": "60",
+    "group": "2"
+  },
+  {
+    "make": "DAEWOO",
+    "model": "TACUMA",
+    "id": "700",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "25 SEATER BUS",
+    "id": "62",
+    "group": "COMM"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "APPLAUSE",
+    "id": "63",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "CHARADE",
+    "id": "64",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "CHARMANT",
+    "id": "65",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "COURE",
+    "id": "66",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "DELTA FLATBED TRUCK",
+    "id": "67",
+    "group": "COMM"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "DELTA PANEL VAN",
+    "id": "68",
+    "group": "COMM"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "FEROZA",
+    "id": "69",
+    "group": "4"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "HIJET",
+    "id": "70",
+    "group": "3"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "SUV",
+    "id": "71",
+    "group": "7"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "SALOON",
+    "id": "72",
+    "group": "2"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "BEGO",
+    "id": "",
+    "group": "3"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "COURSE HATCHBACK",
+    "id": "87",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "DELTA DELIVERY VAN",
+    "id": "88",
+    "group": "COMM"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "TERIOS",
+    "id": "89",
+    "group": "3"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "JEEP",
+    "id": "90",
+    "group": "4"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "SIRION",
+    "id": "a91",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "GRAND MOV",
+    "id": "x56",
+    "group": "1"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "TERIOS",
+    "id": "TER",
+    "group": "3"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "DELTA",
+    "id": "F10",
+    "group": "COMM"
+  },
+  {
+    "make": "DAIHATSU",
+    "model": "ROCKY",
+    "id": "ROC",
+    "group": "3"
+  },
+  {
+    "make": "DAIMLER",
+    "model": "JAGUAR SALOON",
+    "id": "73",
+    "group": "7"
+  },
+  {
+    "make": "DATSUN",
+    "model": "120Y",
+    "id": "75",
+    "group": "1"
+  },
+  {
+    "make": "DATSUN",
+    "model": "180B SALOON",
+    "id": "76",
+    "group": "1"
+  },
+  {
+    "make": "DATSUN",
+    "model": "4WD PICKUP",
+    "id": "77",
+    "group": "4"
+  },
+  {
+    "make": "DATSUN",
+    "model": "BLUEBIRD S/W",
+    "id": "78",
+    "group": "2"
+  },
+  {
+    "make": "DATSUN",
+    "model": "C20 DELIVERY VAN",
+    "id": "79",
+    "group": "COMM"
+  },
+  {
+    "make": "DATSUN",
+    "model": "CABSTAR DUMP TRUCK",
+    "id": "80",
+    "group": "COMM"
+  },
+  {
+    "make": "DATSUN",
+    "model": "D/C PICKUP",
+    "id": "81",
+    "group": "4"
+  },
+  {
+    "make": "DATSUN",
+    "model": "HATCHBACK",
+    "id": "82",
+    "group": "1"
+  },
+  {
+    "make": "DATSUN",
+    "model": "STANZA",
+    "id": "83",
+    "group": "1"
+  },
+  {
+    "make": "DATSUN",
+    "model": "SUNNY SALOON",
+    "id": "84",
+    "group": "1"
+  },
+  {
+    "make": "DATSUN",
+    "model": "SUNNY STATION WAGON",
+    "id": "85",
+    "group": "1"
+  },
+  {
+    "make": "DEUTZ",
+    "model": "TRACTOR",
+    "id": "86",
+    "group": "COMM"
+  },
+  {
+    "make": "DODGE",
+    "model": "CARAVAN SEDAN",
+    "id": "89",
+    "group": "4"
+  },
+  {
+    "make": "DODGE",
+    "model": "RAM PICKUP",
+    "id": "90",
+    "group": "COMM"
+  },
+  {
+    "make": "DODGE",
+    "model": "VAN",
+    "id": "91",
+    "group": "4"
+  },
+  {
+    "make": "DODGE",
+    "model": "AVENGER",
+    "id": "92",
+    "group": "3"
+  },
+  {
+    "make": "DODGE",
+    "model": "JEEP",
+    "id": "93",
+    "group": "5"
+  },
+  {
+    "make": "DODGE",
+    "model": "RAIDER",
+    "id": "94",
+    "group": "4"
+  },
+  {
+    "make": "DODGE",
+    "model": "DAKOTA PICKUP",
+    "id": "95",
+    "group": "4"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "id": "XUR",
+    "group": "7"
+  },
+  {
+    "make": "DODGE",
+    "model": "CHARGER",
+    "id": "F19",
+    "group": "2"
+  },
+  {
+    "make": "DUTTON",
+    "model": "MELOS",
+    "id": "92",
+    "group": "2"
+  },
+  {
+    "make": "DYNAPAC",
+    "model": "ROLLER",
+    "id": "RLL",
+    "group": "COMM"
+  },
+  {
+    "make": "DYNAPAC",
+    "model": "VIBRATING ROLLER",
+    "id": "RL",
+    "group": "COMM"
+  },
+  {
+    "make": "FIAT",
+    "model": "PUNTO",
+    "id": "94",
+    "group": "1"
+  },
+  {
+    "make": "FIAT",
+    "model": "UNO",
+    "id": "95",
+    "group": "1"
+  },
+  {
+    "make": "FIAT",
+    "model": "DOBLO",
+    "id": "D95",
+    "group": "4"
+  },
+  {
+    "make": "FIAT",
+    "model": "MAREA ELX",
+    "id": "96",
+    "group": "1"
+  },
+  {
+    "make": "FIAT",
+    "model": "DUCATO 15 SEATER BUS",
+    "id": "D66",
+    "group": "6"
+  },
+  {
+    "make": "FORDSON",
+    "model": "TRACTOR & TRAILER",
+    "id": "116",
+    "group": "COMM"
+  },
+  {
+    "make": "FORKLIFT",
+    "model": "TRUCK",
+    "id": "TRU",
+    "group": "COMM"
+  },
+  {
+    "make": "FODEN",
+    "model": "3325 TIPPER",
+    "id": "3X3",
+    "group": "COMM"
+  },
+  {
+    "make": "FODEN",
+    "model": "DUMP TRUCK",
+    "id": "1",
+    "group": "COMM"
+  },
+  {
+    "make": "FODEN",
+    "model": "500 TRAILER",
+    "id": "D58",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "CORTINA SALOON",
+    "id": "97",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCORT",
+    "id": "98",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "id": "99",
+    "group": "7"
+  },
+  {
+    "make": "FORD",
+    "model": "ECPLORER 4DR WAGON",
+    "id": "100",
+    "group": "7"
+  },
+  {
+    "make": "FORD",
+    "model": "F150 LHD PICKUP",
+    "id": "101",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "F800 TRUCK WITH BOX",
+    "id": "102",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "FESTIVA",
+    "id": "103",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "FIESTA",
+    "id": "104",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "id": "",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "FLATBED TRUCK",
+    "id": "105",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "FOCUS",
+    "id": "106",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "LANCER GL HATCHBACK",
+    "id": "107",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "PANEL VAN",
+    "id": "108",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "PICKUP",
+    "id": "109",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGE",
+    "id": "110",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "SIERRA",
+    "id": "111",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "TAURUS",
+    "id": "112",
+    "group": "2"
+  },
+  {
+    "make": "FORD",
+    "model": "TIPPER TRUCK",
+    "id": "113",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "TOW TRUCK",
+    "id": "114",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT PANEL VAN",
+    "id": "115",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "F350 CUSTOM",
+    "id": "96",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "OHIO",
+    "id": "95",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "GRANADA",
+    "id": "94G",
+    "group": "6"
+  },
+  {
+    "make": "FORD",
+    "model": "F450 ARMOURED TRUCK",
+    "id": "1A",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "TRUCK/TRAILER",
+    "id": "TRT",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "SERVICE TRUCK",
+    "id": "SER",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "L 8000 DISEL",
+    "id": "DIE",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "AEROSTAR",
+    "id": "116",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "REFRIDGERATION TRUCK",
+    "id": "REF",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "GMC 8000",
+    "id": "CM",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "id": "D51",
+    "group": "4"
+  },
+  {
+    "make": "FORD",
+    "model": "MUSTANG",
+    "id": "F26",
+    "group": "2"
+  },
+  {
+    "make": "FORD",
+    "model": "F350 DIESEL",
+    "id": "D1",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "FORD ESCAPE",
+    "id": "FES",
+    "group": "7"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER 4X4 PICKUP",
+    "id": "4X4",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "EVEREST",
+    "id": "EV",
+    "group": "7"
+  },
+  {
+    "make": "FORD",
+    "model": "CATEROMG TRUCK",
+    "id": "D30",
+    "group": "COMM"
+  },
+  {
+    "make": "FORD",
+    "model": "TRIUMPH",
+    "id": "D91",
+    "group": "1"
+  },
+  {
+    "make": "FORD",
+    "model": "F-SUPER DUTY",
+    "id": "F17",
+    "group": "8"
+  },
+  {
+    "make": "FREIGHT LINER",
+    "model": "TRUCK",
+    "id": "83T",
+    "group": "COMM"
+  },
+  {
+    "make": "FREIGHT LINER",
+    "model": "TRACTOR HEAD",
+    "id": "B45",
+    "group": "COMM"
+  },
+  {
+    "make": "GEELY",
+    "model": "MK2 GS",
+    "id": "D72",
+    "group": "1"
+  },
+  {
+    "make": "GEELY",
+    "model": "MK GT",
+    "id": "F16",
+    "group": "1"
+  },
+  {
+    "make": "GEO",
+    "model": "TRACTER",
+    "id": "119",
+    "group": "COMM"
+  },
+  {
+    "make": "GEO",
+    "model": "PRIZM SEDAN",
+    "id": "120",
+    "group": "1"
+  },
+  {
+    "make": "GEO",
+    "model": "GEELY",
+    "id": "A60",
+    "group": "1"
+  },
+  {
+    "make": "GMC",
+    "model": "CHASSIS CAB VAN",
+    "id": "120",
+    "group": "COMM"
+  },
+  {
+    "make": "GMC",
+    "model": "CHEVROLET PICKUP",
+    "id": "121",
+    "group": "COMM"
+  },
+  {
+    "make": "GMC",
+    "model": "TRUCK",
+    "id": "122",
+    "group": "COMM"
+  },
+  {
+    "make": "GMC",
+    "model": "JIMMY",
+    "id": "700",
+    "group": "7"
+  },
+  {
+    "make": "GMC",
+    "model": "BLUEBIRD BUS",
+    "id": "F50",
+    "group": "COMM"
+  },
+  {
+    "make": "GREAT WALL SAILOR",
+    "model": "D/CAB PICKUP",
+    "id": "PIC",
+    "group": "4"
+  },
+  {
+    "make": "GREAT WALL SAILOR",
+    "model": "F-SUPER DUTY",
+    "id": "F17",
+    "group": "4"
+  },
+  {
+    "make": "GROVE",
+    "model": "CRANE",
+    "id": "124",
+    "group": "COMM"
+  },
+  {
+    "make": "HARLEY DAVIDSON",
+    "model": "MOTOR CYCLE",
+    "id": "B52",
+    "group": "8"
+  },
+  {
+    "make": "HENLEY HUSKY",
+    "model": "FORKLIFT",
+    "id": "125",
+    "group": "COMM"
+  },
+  {
+    "make": "HERCULES",
+    "model": "FORKLIFT TRUCK",
+    "id": "126",
+    "group": "COMM"
+  },
+  {
+    "make": "HINO",
+    "model": "BUS",
+    "id": "127",
+    "group": "COMM"
+  },
+  {
+    "make": "HINO",
+    "model": "COMMUTER",
+    "id": "128",
+    "group": "COMM"
+  },
+  {
+    "make": "HINO",
+    "model": "PANEL VAN",
+    "id": "129",
+    "group": "COMM"
+  },
+  {
+    "make": "HINO",
+    "model": "TRUCK",
+    "id": "130",
+    "group": "COMM"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "id": "132",
+    "group": "2"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "id": "133",
+    "group": "1"
+  },
+  {
+    "make": "HONDA",
+    "model": "CONCERTO",
+    "id": "134",
+    "group": "2"
+  },
+  {
+    "make": "HONDA",
+    "model": "CRV SUV",
+    "id": "135",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "CRV S/WAGON",
+    "id": "136",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "CRX",
+    "id": "137",
+    "group": "3"
+  },
+  {
+    "make": "HONDA",
+    "model": "DELSOL",
+    "id": "138",
+    "group": "7"
+  },
+  {
+    "make": "HONDA",
+    "model": "INTEGRA",
+    "id": "139",
+    "group": "2"
+  },
+  {
+    "make": "HONDA",
+    "model": "MOTOR CYCLE",
+    "id": "140",
+    "group": "8"
+  },
+  {
+    "make": "HONDA",
+    "model": "PASSPORT SUV",
+    "id": "141",
+    "group": "7"
+  },
+  {
+    "make": "HONDA",
+    "model": "PRELUDE",
+    "id": "142",
+    "group": "3"
+  },
+  {
+    "make": "HONDA",
+    "model": "STATION WAGON",
+    "id": "143",
+    "group": "2"
+  },
+  {
+    "make": "HONDA",
+    "model": "INSPIRE",
+    "id": "144",
+    "group": "6"
+  },
+  {
+    "make": "HONDA",
+    "model": "HRV",
+    "id": "145",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "DOMANI",
+    "id": "14D",
+    "group": "1"
+  },
+  {
+    "make": "HONDA",
+    "model": "CRV",
+    "id": "15C",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "TORNEO",
+    "id": "F13",
+    "group": "1"
+  },
+  {
+    "make": "HONDA",
+    "model": "STREAM",
+    "id": "D93",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "PILOT",
+    "id": "16F",
+    "group": "7"
+  },
+  {
+    "make": "HONDA",
+    "model": "RIDGELINE D/C PICKPU",
+    "id": "RID",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "CITY",
+    "id": "CIT",
+    "group": "1"
+  },
+  {
+    "make": "HONDA",
+    "model": "FIT",
+    "id": "B44",
+    "group": "1"
+  },
+  {
+    "make": "HONDA",
+    "model": "MOTOR CYCLE",
+    "id": "B54",
+    "group": "8"
+  },
+  {
+    "make": "HONDA",
+    "model": "SCOOTER",
+    "id": "B78",
+    "group": "8"
+  },
+  {
+    "make": "HONDA",
+    "model": "ODYSSEY",
+    "id": "D69",
+    "group": "4"
+  },
+  {
+    "make": "HONDA",
+    "model": "CAPA",
+    "id": "F11",
+    "group": "1"
+  },
+  {
+    "make": "HYSTER",
+    "model": "FORKLIFT 3 TON",
+    "id": "144",
+    "group": "COMM"
+  },
+  {
+    "make": "HYSTER",
+    "model": "LIFT TRUCK",
+    "id": "145",
+    "group": "COMM"
+  },
+  {
+    "make": "HYSTER",
+    "model": "FORKLIFT 8 TON",
+    "id": "F58",
+    "group": "COMM"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ACCENT",
+    "id": "147",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "id": "148",
+    "group": "2"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "EXCEL",
+    "id": "149",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "PANEL VAN",
+    "id": "150",
+    "group": "COMM"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "PICKUP",
+    "id": "151",
+    "group": "2"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "PONY PICK UP",
+    "id": "152",
+    "group": "4"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "PRIMER",
+    "id": "153",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SCOUPE",
+    "id": "154",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "id": "155",
+    "group": "2"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "STELLAR",
+    "id": "156",
+    "group": "2"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "GALLOPER WAGON",
+    "id": "15G",
+    "group": "4"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "H1",
+    "id": "D52",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TRAILER",
+    "id": "F36",
+    "group": "COMM"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "9 SEATER BUS",
+    "id": "715",
+    "group": "COMM"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "id": "951",
+    "group": "7"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "GETZ",
+    "id": "GTZ",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "id": "TUS",
+    "group": "4"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TERRACAN",
+    "id": "B17",
+    "group": "7"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "MATRIX",
+    "id": "B57",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "CARGO TRUCK",
+    "id": "B71",
+    "group": "COMM"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I30",
+    "id": "D10",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "HD72",
+    "id": "D47",
+    "group": "8"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I10",
+    "id": "",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I20",
+    "id": "",
+    "group": "1"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "HI-12 SEATER",
+    "id": "",
+    "group": "4"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "I10",
+    "id": "D83",
+    "group": "1"
+  },
+  {
+    "make": "INGERSOLL-RAND",
+    "model": "ROLLER",
+    "id": "ROLL",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "4WD WAGON",
+    "id": "158",
+    "group": "4"
+  },
+  {
+    "make": "ISUZU",
+    "model": "CREW CAB 4X4",
+    "id": "159",
+    "group": "4"
+  },
+  {
+    "make": "ISUZU",
+    "model": "DUMP TRUCK",
+    "id": "160",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "FRIDGE & FREEZER CAR",
+    "id": "161",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "GEMINI SEDAN",
+    "id": "162",
+    "group": "1"
+  },
+  {
+    "make": "ISUZU",
+    "model": "JOURNEY",
+    "id": "163",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "PICKUP",
+    "id": "164",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "TROOPER SUV 4X4",
+    "id": "165",
+    "group": "7"
+  },
+  {
+    "make": "ISUZU",
+    "model": "TROOPER LOTUS SUV",
+    "id": "166",
+    "group": "7"
+  },
+  {
+    "make": "ISUZU",
+    "model": "TROOPER S/WAGON",
+    "id": "167",
+    "group": "7"
+  },
+  {
+    "make": "ISUZU",
+    "model": "TRUCK",
+    "id": "168",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "RODEO",
+    "id": "16A",
+    "group": "7"
+  },
+  {
+    "make": "ISUZU",
+    "model": "JUSTON",
+    "id": "17B",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "DMAX",
+    "id": "18C",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "ELF TRUCK",
+    "id": "19D",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "FORWARD",
+    "id": "F57",
+    "group": "7"
+  },
+  {
+    "make": "ISUZU",
+    "model": "CONCRETE MIXER",
+    "id": "F30",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "FORKLIFT",
+    "id": "FRK",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "CARGO TRUCK",
+    "id": "CGO",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "AERIO",
+    "id": "AER",
+    "group": "3"
+  },
+  {
+    "make": "ISUZU",
+    "model": "WIZARD",
+    "id": "B24",
+    "group": "3"
+  },
+  {
+    "make": "ISUZU",
+    "model": "TIPPER TRUCK",
+    "id": "B25",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "FLAT BED TRUCK",
+    "id": "B86",
+    "group": "COMM"
+  },
+  {
+    "make": "ISUZU",
+    "model": "KB 2.8",
+    "id": "B97",
+    "group": "4"
+  },
+  {
+    "make": "JAGUAR",
+    "model": "SALOON",
+    "id": "JA7",
+    "group": "8"
+  },
+  {
+    "make": "JAGUAR",
+    "model": "X-TYPE V6",
+    "id": "F45",
+    "group": "1"
+  },
+  {
+    "make": "JAGUAR",
+    "model": "XJ6",
+    "id": "B27",
+    "group": "7"
+  },
+  {
+    "make": "JCB",
+    "model": "BACKHOE",
+    "id": "169",
+    "group": "COMM"
+  },
+  {
+    "make": "JCB",
+    "model": "BACKHOE LOADER",
+    "id": "170",
+    "group": "COMM"
+  },
+  {
+    "make": "JCB",
+    "model": "802",
+    "id": "17O",
+    "group": "COMM"
+  },
+  {
+    "make": "JCB",
+    "model": "410 ZX/BZX",
+    "id": "F48",
+    "group": "COMM"
+  },
+  {
+    "make": "JCB",
+    "model": "540-170 LOADALL",
+    "id": "B29",
+    "group": "COMM"
+  },
+  {
+    "make": "JCB",
+    "model": "EXCAVATOR",
+    "id": "B77",
+    "group": "COMM"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "id": "41",
+    "group": "7"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "id": "123",
+    "group": "7"
+  },
+  {
+    "make": "JEEP",
+    "model": "ISLANDER",
+    "id": "171",
+    "group": "7"
+  },
+  {
+    "make": "JEEP",
+    "model": "WRANGLER",
+    "id": "42W",
+    "group": "7"
+  },
+  {
+    "make": "JEEP",
+    "model": "LIBERTY",
+    "id": "801",
+    "group": "7"
+  },
+  {
+    "make": "JONES",
+    "model": "1F 10M CRANE",
+    "id": "172",
+    "group": "COMM"
+  },
+  {
+    "make": "KALMAR",
+    "model": "FORKLIFT TRUCK",
+    "id": "173",
+    "group": "COMM"
+  },
+  {
+    "make": "KAWASAKI",
+    "model": "MOTOR CYCLE",
+    "id": "174",
+    "group": "8"
+  },
+  {
+    "make": "KIA",
+    "model": "RIO",
+    "id": "175",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "id": "176",
+    "group": "4"
+  },
+  {
+    "make": "KIA",
+    "model": "TRUCK",
+    "id": "177",
+    "group": "COMM"
+  },
+  {
+    "make": "KIA",
+    "model": "CAR",
+    "id": "A78",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO SUV",
+    "id": "K79",
+    "group": "7"
+  },
+  {
+    "make": "KIA",
+    "model": "PREGI",
+    "id": "L80",
+    "group": "4"
+  },
+  {
+    "make": "KIA",
+    "model": "SEPHIA",
+    "id": "SEP",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "CERATO",
+    "id": "CER",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "PICAN",
+    "id": "PIC",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "K2700",
+    "id": "K7X",
+    "group": "COMM"
+  },
+  {
+    "make": "KIA",
+    "model": "PICANTO",
+    "id": "650",
+    "group": "1"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "id": "OPT",
+    "group": "2"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "id": "OPM",
+    "group": "2"
+  },
+  {
+    "make": "KIA",
+    "model": "SOUL",
+    "id": "B95",
+    "group": "1"
+  },
+  {
+    "make": "KINROAD",
+    "model": "SCOOTER",
+    "id": "805",
+    "group": "8"
+  },
+  {
+    "make": "KOMATSU",
+    "model": "FORKLIFT",
+    "id": "178",
+    "group": "COMM"
+  },
+  {
+    "make": "KOMATSU",
+    "model": "WA 180 LOADER",
+    "id": "179",
+    "group": "COMM"
+  },
+  {
+    "make": "KOMATSU",
+    "model": "WB140",
+    "id": "180",
+    "group": "COMM"
+  },
+  {
+    "make": "KOMATSU",
+    "model": "BACKHOE",
+    "id": "D27",
+    "group": "COMM"
+  },
+  {
+    "make": "LADA",
+    "model": "SUV",
+    "id": "180",
+    "group": "7"
+  },
+  {
+    "make": "LANCER",
+    "model": "BOSS FORKLIFT",
+    "id": "181",
+    "group": "COMM"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "PICKUP",
+    "id": "183",
+    "group": "4"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DISCOVERY",
+    "id": "184",
+    "group": "7"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "101 SUV",
+    "id": "185",
+    "group": "7"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "FREELANDER 5 DOOR",
+    "id": "186",
+    "group": "4"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "RANGE ROVER",
+    "id": "187",
+    "group": "7"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "JEEP",
+    "id": "188",
+    "group": "7"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "DEFENDER",
+    "id": "18Z",
+    "group": "7"
+  },
+  {
+    "make": "LAND ROVER",
+    "model": "FREELANDER",
+    "id": "950",
+    "group": "4"
+  },
+  {
+    "make": "LASING",
+    "model": "FORKLIFT TRUCK",
+    "id": "186",
+    "group": "COMM"
+  },
+  {
+    "make": "LASING",
+    "model": "REACH TRUCH/BATTERY CHARGER",
+    "id": "187",
+    "group": "COMM"
+  },
+  {
+    "make": "LDV",
+    "model": "CONVOY PANEL VAN",
+    "id": "188",
+    "group": "COMM"
+  },
+  {
+    "make": "LEXUS",
+    "model": "GX 470",
+    "id": "189",
+    "group": "8"
+  },
+  {
+    "make": "LEXUS",
+    "model": "RX 300",
+    "id": "RX3",
+    "group": "7"
+  },
+  {
+    "make": "LEXUS",
+    "model": "1S250",
+    "id": "F20",
+    "group": "7"
+  },
+  {
+    "make": "LEXUS",
+    "model": "1S200",
+    "id": "LX",
+    "group": "6"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "BOXER TIPPER TRUCK",
+    "id": "191",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "CYLDSDALE",
+    "id": "192",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF COMET TRUCK",
+    "id": "193",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "SUPER COMET",
+    "id": "194",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "TRACTOR",
+    "id": "195",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "TRUCK",
+    "id": "196",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF DUMP TRUCK",
+    "id": "197",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "LEYLAND FREIGHTER",
+    "id": "D41",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "FREIGHTER",
+    "id": "D42",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF TRACTOR HEAD",
+    "id": "D56",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF",
+    "id": "D59",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "COMET TRUCK",
+    "id": "D60",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF SKIP TRUCK",
+    "id": "D61",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF XF",
+    "id": "D88",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF TIPPER TRUCK",
+    "id": "19X",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF 55 210",
+    "id": "B36",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "COMMET DUMP TRUCK",
+    "id": "B76",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF 55-230",
+    "id": "B85",
+    "group": "COMM"
+  },
+  {
+    "make": "LEYLAND",
+    "model": "DAF WATER TANK",
+    "id": "B96",
+    "group": "COMM"
+  },
+  {
+    "make": "LINCOLN",
+    "model": "CONTINENTAL",
+    "id": "197",
+    "group": "7"
+  },
+  {
+    "make": "LINCOLN",
+    "model": "TOWN CAR SEDAN",
+    "id": "198",
+    "group": "7"
+  },
+  {
+    "make": "LINCOLN",
+    "model": "NAVIGATOR",
+    "id": "D68",
+    "group": "6"
+  },
+  {
+    "make": "LISTER",
+    "model": "& PETTER WORKHORSE",
+    "id": "199",
+    "group": "COMM"
+  },
+  {
+    "make": "LISTER",
+    "model": "&/ OR TRAILER",
+    "id": "200",
+    "group": "COMM"
+  },
+  {
+    "make": "MAC GRANITE",
+    "model": "CV-713 SERIES",
+    "id": "CV",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "TRUCK",
+    "id": "201",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "DIPPER 15M3",
+    "id": "202",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "TIPPER 12M3",
+    "id": "20Z",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "CH613 W/TANKER",
+    "id": "22Z",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "DM6905 T/MIXER",
+    "id": "23Z",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "CH612 T/MIXER",
+    "id": "24Z",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "TIPPER 6M3",
+    "id": "25",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "MIXER TRUCK",
+    "id": "MXR",
+    "group": "COMM"
+  },
+  {
+    "make": "MACK",
+    "model": "DUMP TRUCK",
+    "id": "DMP",
+    "group": "COMM"
+  },
+  {
+    "make": "MANN",
+    "model": "3325 TIPPER",
+    "id": "MA8",
+    "group": "COMM"
+  },
+  {
+    "make": "MARSHALL",
+    "model": "302 TRACTOR",
+    "id": "202",
+    "group": "COMM"
+  },
+  {
+    "make": "MARSHALL",
+    "model": "TRACTOR",
+    "id": "203",
+    "group": "COMM"
+  },
+  {
+    "make": "MASSE FERGUSON",
+    "model": "TRACTOR",
+    "id": "204",
+    "group": "COMM"
+  },
+  {
+    "make": "MATBRO",
+    "model": "FORKLIFT",
+    "id": "205",
+    "group": "COMM"
+  },
+  {
+    "make": "MAXI",
+    "model": "TERRAIN FIBER GLASS",
+    "id": "206",
+    "group": "COMM"
+  },
+  {
+    "make": "MAXI",
+    "model": "6600 SWEEPER",
+    "id": "207",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "14 SEATER MINIBUS",
+    "id": "208",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "323",
+    "id": "209",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "323 LANTIS",
+    "id": "210",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "626",
+    "id": "211",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "929",
+    "id": "212",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "ASTINA",
+    "id": "213",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B1600 PICKUP",
+    "id": "214",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B1800 PICKUP",
+    "id": "215",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B2000 PICKUP",
+    "id": "216",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B2300 4WD PICKUP",
+    "id": "217",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B2500 D/CAB PICKUP",
+    "id": "218",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "B2600 4WD PICKUP",
+    "id": "219",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "COUPE",
+    "id": "220",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CREW CAB 4X4",
+    "id": "221",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "D/CAB PICKUP",
+    "id": "222",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "E1400 MINIBUS",
+    "id": "223",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "E20 MINIBUS",
+    "id": "224",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "E2000 MINIBUS",
+    "id": "225",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "ESTATE",
+    "id": "226",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CRONO",
+    "id": "227",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "HATCHBACK",
+    "id": "228",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "MX6 COUPE",
+    "id": "229",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "PANEL VAN",
+    "id": "230",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "PICK UP",
+    "id": "231",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "STATION WAGON",
+    "id": "232",
+    "group": "3"
+  },
+  {
+    "make": "MAZDA",
+    "model": "T3500",
+    "id": "233",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "T4000 TRUCK TITAN",
+    "id": "234",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "TITAN",
+    "id": "235",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "TRUCK",
+    "id": "236",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "LEVANTE",
+    "id": "23L",
+    "group": "3"
+  },
+  {
+    "make": "MAZDA",
+    "model": "SEDAN",
+    "id": "237",
+    "group": "6"
+  },
+  {
+    "make": "MAZDA",
+    "model": "323 FAMILIA",
+    "id": "238",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "FRIENDEE",
+    "id": "24J",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "DEMIO",
+    "id": "25D",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "E2000 PANEL VAN",
+    "id": "26E",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "T4600",
+    "id": "27F",
+    "group": "COMM"
+  },
+  {
+    "make": "MAZDA",
+    "model": "VERISA",
+    "id": "",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX5",
+    "id": "",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "FAMILIA",
+    "id": "28G",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "SALOON",
+    "id": "29S",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CAPELLA",
+    "id": "30C",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "PREMACY",
+    "id": "31P",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "MPV",
+    "id": "32H",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "ATENZA",
+    "id": "D74",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "323",
+    "id": "323",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "AXELA",
+    "id": "34G",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "FAMILIA",
+    "id": "600",
+    "group": "1"
+  },
+  {
+    "make": "MAZDA",
+    "model": "TRIBUTE",
+    "id": "TRI",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "6 SERIES",
+    "id": "899",
+    "group": "2"
+  },
+  {
+    "make": "MAZDA",
+    "model": "RX8",
+    "id": "RX8",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "BONGO",
+    "id": "B38",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "BT50",
+    "id": "B42",
+    "group": "4"
+  },
+  {
+    "make": "MAZDA",
+    "model": "MIATA",
+    "id": "B82",
+    "group": "7"
+  },
+  {
+    "make": "MAZDA",
+    "model": "3",
+    "id": "B88",
+    "group": "1"
+  },
+  {
+    "make": "MBX",
+    "model": "SCOOTER",
+    "id": "SCO",
+    "group": "8"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "190E",
+    "id": "238",
+    "group": "6"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "260E SEDAN",
+    "id": "239",
+    "group": "5"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "280 SE",
+    "id": "240",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "280 SEDAN",
+    "id": "241",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "450 SEL",
+    "id": "242",
+    "group": "5"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "PANEL VAN",
+    "id": "243",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "TRUCK",
+    "id": "244",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "CLK 200K CABRIOLET",
+    "id": "245",
+    "group": "8"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "BENZ",
+    "id": "246",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ACTROS TIPPER",
+    "id": "24A",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ACTROS W/TANKER",
+    "id": "25B",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ATEGO W/TANKER",
+    "id": "26C",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "E280",
+    "id": "D77",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "BENZ ML350",
+    "id": "F22",
+    "group": "8"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "313 CD1",
+    "id": "SPR",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ML320",
+    "id": "ML3",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "2320",
+    "id": "232",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "E350",
+    "id": "B12",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "SLK350",
+    "id": "B37",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "C200 KOMPRESSOR",
+    "id": "B46",
+    "group": "8"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ROAD TANK WAGON/DISPENSER",
+    "id": "B73",
+    "group": "COMM"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "ML 270",
+    "id": "B93",
+    "group": "7"
+  },
+  {
+    "make": "MERCEDES BENZ",
+    "model": "UNIMOG",
+    "id": "B98",
+    "group": "8"
+  },
+  {
+    "make": "MERCEDES",
+    "model": "MB300 TRUCK",
+    "id": "D34",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "COLT",
+    "id": "253",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CORDIA",
+    "id": "254",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "D/CAB PICKUP",
+    "id": "255",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ESTATE CAR",
+    "id": "256",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GALANT S/SALOON",
+    "id": "257",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GALANT S/SEDAN",
+    "id": "258",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GALANT SALOON",
+    "id": "259",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GALANT STATION WAGON",
+    "id": "260",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L200 4WD",
+    "id": "261",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L200 4WD PICKUP",
+    "id": "262",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L200 PANEL VAN",
+    "id": "263",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L200 PICKUP",
+    "id": "264",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 4WD/D MINIBUS",
+    "id": "265",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 4WD M/B",
+    "id": "266",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 9 S/V",
+    "id": "267",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 9 SEATER VAN",
+    "id": "268",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 MINI BUS",
+    "id": "269",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 PANEL VAN",
+    "id": "270",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L400 MINI VAN",
+    "id": "271",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LANCER",
+    "id": "272",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LANCER HATCHBACK",
+    "id": "273",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LANCER S/W",
+    "id": "274",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MINI BUS",
+    "id": "275",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MONTERO JEEP",
+    "id": "276",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MONTERO WAGON",
+    "id": "277",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "NATIVA",
+    "id": "278",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "OUTLANDER",
+    "id": "279",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO HIGH ROOF",
+    "id": "280",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO HIGH ROOF",
+    "id": "281",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO JUNIOR",
+    "id": "282",
+    "group": "3"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO S/WAGON",
+    "id": "283",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PANEL VAN",
+    "id": "284",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PICKUP",
+    "id": "285",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ROSA",
+    "id": "286",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "RVR",
+    "id": "287",
+    "group": "3"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SEDAN",
+    "id": "288",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SHOGUN",
+    "id": "289",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "STATION WAGON",
+    "id": "290",
+    "group": "3"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "TRANSIT VAN",
+    "id": "291",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "TREDIA SALOON",
+    "id": "292",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "TRUCK",
+    "id": "293",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MATIVA WAGON",
+    "id": "294",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "2WD L/B PICKUP",
+    "id": "248",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "4WD PICKUP",
+    "id": "249",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CANLEV TRKCK",
+    "id": "250",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CANTER TRUCK",
+    "id": "251",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CHALLENGER",
+    "id": "252",
+    "group": "8"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "NATIVA WAGON",
+    "id": "29N",
+    "group": "7"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LEGNUM",
+    "id": "LEG",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "AIRTREK WAGON",
+    "id": "AIW",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "MIRAGE",
+    "id": "MIR",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "DIAMANTE",
+    "id": "DIA",
+    "group": "6"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "FUSO",
+    "id": "FUS",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300 12 SEATER",
+    "id": "L30",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ECLIPSE",
+    "id": "ECL",
+    "group": "8"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "L300",
+    "id": "L",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "ASX",
+    "id": "F56",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "EXCAVATOR",
+    "id": "F32",
+    "group": "COMM"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "IO",
+    "id": "MPI",
+    "group": "3"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "PAJERO IO",
+    "id": "MPJ",
+    "group": "3"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "SPORTERO",
+    "id": "SPO",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "GRANDIS",
+    "id": "GRA",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "CEDIA",
+    "id": "CED",
+    "group": "1"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "STRADA",
+    "id": "957",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LIBERO",
+    "id": "B19",
+    "group": "2"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "DELICA",
+    "id": "B2",
+    "group": "4"
+  },
+  {
+    "make": "MITSUBISHI",
+    "model": "LANCER EVOLUTION",
+    "id": "B47",
+    "group": "7"
+  },
+  {
+    "make": "MORRIS",
+    "model": "AUSTIN MINI",
+    "id": "295",
+    "group": "2"
+  },
+  {
+    "make": "MUDAN",
+    "model": "TRUCK",
+    "id": "MUT",
+    "group": "COMM"
+  },
+  {
+    "make": "MAX MOTOR",
+    "model": "SCOOTER",
+    "id": "ASD",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "14 SEATER BUS",
+    "id": "298",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "200 SX COUPE",
+    "id": "299",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "200 SX ESSERMAN LHD",
+    "id": "300",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "4WD D/C PICKUP",
+    "id": "301",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "4WD PICKUP",
+    "id": "302",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "4WD SINGLE CAB",
+    "id": "303",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "300 ZX FAIRLADY",
+    "id": "304",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALMERA SALOON",
+    "id": "305",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "WIN GROUND S/W",
+    "id": "306",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "BLUEBIRD S/W",
+    "id": "307",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "BLUEBIRD SALOON",
+    "id": "308",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "BUS",
+    "id": "309",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CALIFORNIA",
+    "id": "310",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CEDRIC",
+    "id": "311",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CEFIRO",
+    "id": "312",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CEFIRO SEDAN",
+    "id": "313",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CHERRY",
+    "id": "314",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CIVILIAN",
+    "id": "315",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "DATSUN",
+    "id": "316",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "DOUBLE CAB PICK-UP",
+    "id": "317",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "DUMP TRICK",
+    "id": "318",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "id": "319",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "LAUREL",
+    "id": "320",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "MARCH",
+    "id": "321",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "MAXIMA",
+    "id": "322",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "MICRA H/BACK",
+    "id": "323",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NX COUPE",
+    "id": "324",
+    "group": "3"
+  },
+  {
+    "make": "NISSAN",
+    "model": "P S/W 4WD",
+    "id": "325",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER ESTATE",
+    "id": "326",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER JEEP",
+    "id": "327",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATROL",
+    "id": "328",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PICK-UP",
+    "id": "329",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRAIRI MINI-BUS",
+    "id": "330",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRAIRI STATION WAGON",
+    "id": "331",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PULSAR",
+    "id": "332",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA SEDAN",
+    "id": "333",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "STANZA",
+    "id": "334",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SUNNY COUPE",
+    "id": "335",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SUNNY SALOON",
+    "id": "336",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SEDAN",
+    "id": "337",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SUNNY STATION WAGON",
+    "id": "338",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TERANO",
+    "id": "339",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TIPPER TRUCK",
+    "id": "340",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "URVAN",
+    "id": "341",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "URVAN MINI BUS",
+    "id": "342",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "VANETTE BUS",
+    "id": "343",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "X-TRAIL",
+    "id": "344",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRIMERA",
+    "id": "345",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA SALOON",
+    "id": "346",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PANEL VAN",
+    "id": "34P",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ATLAS TRUCK",
+    "id": "35T",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "AD WAGON",
+    "id": "36U",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "BLUEBIRD SEDAN",
+    "id": "37B",
+    "group": "2"
+  },
+  {
+    "make": "NISSAN",
+    "model": "WINGROAD",
+    "id": "38C",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRESAGE",
+    "id": "39D",
+    "group": "6"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SERENA",
+    "id": "40S",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TRUCK",
+    "id": "41T",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PRECEA",
+    "id": "PRE",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NOTE",
+    "id": "D46",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "MURANO",
+    "id": "D75",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "REGULUS",
+    "id": "D90",
+    "group": "3"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CUBE",
+    "id": "F14",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "UD MKB210 TRUCK",
+    "id": "F61",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TEANA",
+    "id": "D38",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FORKLIFT",
+    "id": "D49",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "JEEP",
+    "id": "D92",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "B13",
+    "id": "D94",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALMERA SALOON",
+    "id": "F40",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SKYLINE",
+    "id": "568",
+    "group": "8"
+  },
+  {
+    "make": "NISSAN",
+    "model": "WAGON",
+    "id": "WA",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TIIDA",
+    "id": "NIT",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FLATBED RUCK",
+    "id": "FLT",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "CONDOR",
+    "id": "CON",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SILVIE",
+    "id": "SI",
+    "group": "7"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NAVARA",
+    "id": "B30",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "QASHQAI",
+    "id": "B41",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "AD",
+    "id": "B68",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "DBA-AK12",
+    "id": "B90",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "TITAN",
+    "id": "B91",
+    "group": "COMM"
+  },
+  {
+    "make": "NISSAN",
+    "model": "LATIO",
+    "id": "D35",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "BLUEBIRD SYLPHY",
+    "id": "D86",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "VERSA",
+    "id": "F41",
+    "group": "1"
+  },
+  {
+    "make": "NISSAN",
+    "model": "DUALIS",
+    "id": "",
+    "group": "4"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ULTIMA",
+    "id": "",
+    "group": "2"
+  },
+  {
+    "make": "PANTHER",
+    "model": "MOTOR CYCLE",
+    "id": "MO9",
+    "group": "8"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "304",
+    "id": "346",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "306 XN HATCHBACK",
+    "id": "347",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "306SL",
+    "id": "348",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "306SR",
+    "id": "349",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "306XR",
+    "id": "350",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "306SI",
+    "id": "351",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "HATCHBACK",
+    "id": "352",
+    "group": "1"
+  },
+  {
+    "make": "PEUGOT",
+    "model": "SEDAN",
+    "id": "353",
+    "group": "1"
+  },
+  {
+    "make": "POLARIS",
+    "model": "TRAIL BOSS",
+    "id": "TRA",
+    "group": "8"
+  },
+  {
+    "make": "POLARIS",
+    "model": "ATV-10",
+    "id": "D73",
+    "group": "8"
+  },
+  {
+    "make": "PONTIAC",
+    "model": "SALOON",
+    "id": "355",
+    "group": "2"
+  },
+  {
+    "make": "PONTIAC",
+    "model": "GRAND LEMANS",
+    "id": "GRL",
+    "group": "8"
+  },
+  {
+    "make": "PONTIAC",
+    "model": "VIBE",
+    "id": "B26",
+    "group": "2"
+  },
+  {
+    "make": "PEXMA",
+    "model": "SCOOTER",
+    "id": "PXA",
+    "group": "8"
+  },
+  {
+    "make": "RENALT",
+    "model": "11 GLT SALOON",
+    "id": "358",
+    "group": "2"
+  },
+  {
+    "make": "RENALT",
+    "model": "2 DOOR HATCHBACK",
+    "id": "359",
+    "group": "2"
+  },
+  {
+    "make": "RENALT",
+    "model": "9 GLT SALOON",
+    "id": "360",
+    "group": "2"
+  },
+  {
+    "make": "RENALT",
+    "model": "MADLUM BOX VAN",
+    "id": "361",
+    "group": "COMM"
+  },
+  {
+    "make": "RENALT",
+    "model": "BOXER TRUCK",
+    "id": "362",
+    "group": "COMM"
+  },
+  {
+    "make": "ROVER",
+    "model": "RANGE ROVER",
+    "id": "256",
+    "group": "7"
+  },
+  {
+    "make": "ROVER",
+    "model": "75",
+    "id": "361",
+    "group": "2"
+  },
+  {
+    "make": "ROVER",
+    "model": "HATCHBACK",
+    "id": "362",
+    "group": "2"
+  },
+  {
+    "make": "ROVER",
+    "model": "SEDAN",
+    "id": "363",
+    "group": "2"
+  },
+  {
+    "make": "ROVER",
+    "model": "416 sli",
+    "id": "A64",
+    "group": "1"
+  },
+  {
+    "make": "ROVER",
+    "model": "45",
+    "id": "D65",
+    "group": "6"
+  },
+  {
+    "make": "SAILOR",
+    "model": "GREAT WALL PICKUP",
+    "id": "D78",
+    "group": "4"
+  },
+  {
+    "make": "SCANIA",
+    "model": "TRACTOR UNIT",
+    "id": "SC1",
+    "group": "COMM"
+  },
+  {
+    "make": "SCANIA",
+    "model": "TIPPER TRUCK",
+    "id": "D63",
+    "group": "COMM"
+  },
+  {
+    "make": "SISC MAGNUM",
+    "model": "TT120",
+    "id": "TT",
+    "group": "NS"
+  },
+  {
+    "make": "SKODA",
+    "model": "FELICIA HATCHBACK",
+    "id": "365",
+    "group": "1"
+  },
+  {
+    "make": "SKODA",
+    "model": "FOREMAN",
+    "id": "366",
+    "group": "1"
+  },
+  {
+    "make": "SKODA",
+    "model": "PICKUP",
+    "id": "A36",
+    "group": "COMM"
+  },
+  {
+    "make": "SKODA",
+    "model": "FAVROIT",
+    "id": "S37",
+    "group": "1"
+  },
+  {
+    "make": "STETTER",
+    "model": "MIXER TRUCK",
+    "id": "MIX",
+    "group": "COMM"
+  },
+  {
+    "make": "STARWAY",
+    "model": "SCOOTER",
+    "id": "SCO",
+    "group": "8"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "id": "371",
+    "group": "3"
+  },
+  {
+    "make": "SUBARU",
+    "model": "GL",
+    "id": "372",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "GLF SEDAN",
+    "id": "373",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "HATCHBACK",
+    "id": "374",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "JUSTY",
+    "id": "375",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "id": "376",
+    "group": "2"
+  },
+  {
+    "make": "SUBARU",
+    "model": "STATION WAGON",
+    "id": "377",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "IMPREZA",
+    "id": "A37",
+    "group": "1"
+  },
+  {
+    "make": "SUBARU",
+    "model": "TRAVIQ",
+    "id": "B22",
+    "group": "2"
+  },
+  {
+    "make": "SUBARU",
+    "model": "IMPREZA WRX",
+    "id": "B31",
+    "group": "2"
+  },
+  {
+    "make": "SUBARU",
+    "model": "TRIBECA",
+    "id": "B48",
+    "group": "7"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "id": "D27",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "ELF",
+    "id": "378",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "5 DOOR WAGON",
+    "id": "379",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "ALTO",
+    "id": "380",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CALENO",
+    "id": "381",
+    "group": "2"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CRESCENT",
+    "id": "382",
+    "group": "8"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "ESCUDO",
+    "id": "383",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "FORSA",
+    "id": "384",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "FRONTE",
+    "id": "385",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "GRAND VITARA",
+    "id": "386",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "JEEP",
+    "id": "387",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "MARUTI SEDAN",
+    "id": "388",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "MOTOR CYCLE",
+    "id": "389",
+    "group": "8"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "PICKUP",
+    "id": "390",
+    "group": "4"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SAMURAI",
+    "id": "391",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SIDEKICK",
+    "id": "392",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CIAZ",
+    "id": "",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SUPER CARRY",
+    "id": "393",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SWIFT",
+    "id": "394",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "VANETTE BUS",
+    "id": "395",
+    "group": "4"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "VITARA",
+    "id": "396",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "IGNIS",
+    "id": "A39",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CULTUS",
+    "id": "B40",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "AERIO",
+    "id": "C41",
+    "group": "4"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "3 DOOR JIMMY",
+    "id": "J42",
+    "group": "3"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "ATV-10",
+    "id": "AT",
+    "group": "8"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "WIZARD",
+    "id": "K43",
+    "group": "8"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "APV",
+    "id": "APV",
+    "group": "4"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CARRY TRUCK",
+    "id": "D53",
+    "group": "COMM"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "CELERIO",
+    "id": "D80",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "APV MINI VAN",
+    "id": "F59",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "XL-7",
+    "id": "XL",
+    "group": "7"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "KATANA",
+    "id": "KAT",
+    "group": "8"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "SX4",
+    "id": "B20",
+    "group": "1"
+  },
+  {
+    "make": "SUZUKI",
+    "model": "WAGON",
+    "id": "B34",
+    "group": "2"
+  },
+  {
+    "make": "TAYLOR",
+    "model": "DUNN",
+    "id": "397",
+    "group": "COMM"
+  },
+  {
+    "make": "TCM",
+    "model": "FORKLIFT",
+    "id": "398",
+    "group": "COMM"
+  },
+  {
+    "make": "TCM",
+    "model": "FORKLIFT/BATTERY & CHARGER & JACK",
+    "id": "399",
+    "group": "COMM"
+  },
+  {
+    "make": "THWAITES",
+    "model": "DUMPER",
+    "id": "10",
+    "group": "COMM"
+  },
+  {
+    "make": "TITAN",
+    "model": "PAVER",
+    "id": "PAV",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV SUV",
+    "id": "453",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "25 SEATER BUS",
+    "id": "401",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMARY",
+    "id": "402",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMI",
+    "id": "403",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "id": "404",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CARINA SEDAN",
+    "id": "405",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CELICA",
+    "id": "406",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CERES",
+    "id": "407",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORSA",
+    "id": "408",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COASTER COACH",
+    "id": "409",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA COUPE",
+    "id": "410",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA LEVIN",
+    "id": "411",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA S/W",
+    "id": "412",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA SALOON",
+    "id": "413",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA SEDAN",
+    "id": "414",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COROLLA",
+    "id": "415",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORONA MARK 11 SEDAN",
+    "id": "416",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORONA S/WAGON",
+    "id": "417",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORONA SALOON",
+    "id": "418",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORONA SALOON",
+    "id": "419",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CORONA SEDAN",
+    "id": "420",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESSIDA",
+    "id": "421",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESSI S/W",
+    "id": "422",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESSIDA SALOON",
+    "id": "423",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESSIDA SEDAN",
+    "id": "424",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESSIDA STATION WAGON",
+    "id": "425",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CROWN SALOON",
+    "id": "426",
+    "group": "6"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "D/C PICKUP",
+    "id": "427",
+    "group": "4 C"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "DA116 TRUCK",
+    "id": "428",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "DYNA PANEL VAN",
+    "id": "429",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "DYNA PICKUP",
+    "id": "430",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "DYNA TRUCK",
+    "id": "431",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FORKLIFT",
+    "id": "432",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FOUR RUNNER",
+    "id": "433",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FOUR RUNNER S/W",
+    "id": "434",
+    "group": "3"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HARD TOP JEEP",
+    "id": "435",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "COMMUTER",
+    "id": "436",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HI ACE GLASS VAN",
+    "id": "437",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HI ACE MINI BUS",
+    "id": "438",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HI ACE PANEL VAN",
+    "id": "439",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX 4WD",
+    "id": "440",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX D/C 4WD",
+    "id": "441",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX PICKUP",
+    "id": "442",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX SUFT",
+    "id": "443",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LAND CRUISER",
+    "id": "444",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LAND CRUISER S/W",
+    "id": "445",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LEXUS",
+    "id": "446",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LITE ACE",
+    "id": "447",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MARINO",
+    "id": "448",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MARK 11",
+    "id": "449",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MASTER ACE",
+    "id": "450",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MR2 COUPE",
+    "id": "451",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PANEL VAN",
+    "id": "452",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SEQUOIA",
+    "id": "454",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SPRINTER",
+    "id": "455",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "STARLET",
+    "id": "456",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "STATION WAGON",
+    "id": "457",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "STOUT",
+    "id": "458",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TERCEL S/WAGON",
+    "id": "459",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TERCEL SEDAN",
+    "id": "460",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TOWN ACE MINI BUS",
+    "id": "461",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TRUCK",
+    "id": "462",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TRUENO",
+    "id": "463",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CRESTA SALOON",
+    "id": "464",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV JEEP",
+    "id": "465",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CARIB",
+    "id": "466",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HARRIER",
+    "id": "46H",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "id": "467",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "LEVIN",
+    "id": "469",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "T100 PICKUP",
+    "id": "47T",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "5 DOOR VITZ",
+    "id": "48V",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PLATZ",
+    "id": "49P",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "YARIS",
+    "id": "50Z",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CALDINA S/WAGON",
+    "id": "51C",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "IPSUM",
+    "id": "52D",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CHASER SALOON",
+    "id": "52E",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VISTA",
+    "id": "TOY",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PICKUP",
+    "id": "PIC",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX SURF 4X4",
+    "id": "HIL",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "id": "TA8",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VITZ",
+    "id": "T98",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ATV-10",
+    "id": "ATV",
+    "group": "S.T"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA EXCAB",
+    "id": "TEX",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PRADO",
+    "id": "PR",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ALLEX HATCHBACK",
+    "id": "ALH",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SUPRA",
+    "id": "SUP",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "GRANDACE",
+    "id": "GRA",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FUN CARGO",
+    "id": "D39",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FIELDER",
+    "id": "D97",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "NADIA",
+    "id": "D99",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "KLUGER",
+    "id": "F12",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ISIS",
+    "id": "F42",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MATRIX",
+    "id": "D81",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "WISH",
+    "id": "D82",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "NOAH",
+    "id": "F39",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SCION",
+    "id": "F53",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FORTUNER",
+    "id": "FOR",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HILUX 4X4",
+    "id": "TOT",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MIDROOF",
+    "id": "999",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ALTEZZA",
+    "id": "ALT",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CARINA SEDAN",
+    "id": "CAR",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAUN",
+    "id": "RAU",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ALLION",
+    "id": "TAV",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "IST",
+    "id": "B15",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SUCCEED",
+    "id": "B16",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VEGO",
+    "id": "B33",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "BB",
+    "id": "B35",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PICNIC",
+    "id": "B55",
+    "group": "7"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SANTA FE",
+    "id": "B83",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "VIOS",
+    "id": "B87",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "ALTIS",
+    "id": "B89",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SURF",
+    "id": "B92",
+    "group": "3"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RUSH",
+    "id": "D11",
+    "group": "3"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "WIIL CYPHA",
+    "id": "D22",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PASSO",
+    "id": "D29",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "SCION TC",
+    "id": "D35",
+    "group": "3"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "MARK X",
+    "id": "D36",
+    "group": "2"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV 4",
+    "id": "D37",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "15 SEATER BUS",
+    "id": "D38",
+    "group": "COMM"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "IMV-S/C",
+    "id": "D45",
+    "group": "4"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "PROBOX",
+    "id": "D89",
+    "group": "1"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "FJ CRUISER",
+    "id": "F55",
+    "group": "7"
+  },
+  {
+    "make": "TRACTOR",
+    "model": "TRACTOR",
+    "id": "465",
+    "group": "COMM"
+  },
+  {
+    "make": "TRACTOR",
+    "model": "MF 275",
+    "id": "466",
+    "group": "COMM"
+  },
+  {
+    "make": "TRACTOR",
+    "model": "KUBOTA 4WD TRACTOR & LOADER",
+    "id": "D62",
+    "group": "COMM"
+  },
+  {
+    "make": "TUG MASTER",
+    "model": "FORKLIFT",
+    "id": "467",
+    "group": "COMM"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "CAVALIER",
+    "id": "468",
+    "group": "2"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "FRONTERA ESTAE",
+    "id": "469",
+    "group": "4"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "HATCHBACK",
+    "id": "470",
+    "group": "1"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VICTOR SEDAN",
+    "id": "471",
+    "group": "1"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ASTRALGL",
+    "id": "11A",
+    "group": "1"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "VECTRA S/WAGON",
+    "id": "472",
+    "group": "2"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "AST. CLUB 16V 5M",
+    "id": "47X",
+    "group": "1"
+  },
+  {
+    "make": "VAUXHALL",
+    "model": "ANTARA SE",
+    "id": "F64",
+    "group": "7"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "POLO",
+    "id": "354",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "BEACH BUG",
+    "id": "472",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "BEATLE",
+    "id": "473",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "GOLF HATCHBACK",
+    "id": "474",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "HATCHBACK",
+    "id": "475",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "MAN CHASSIS CAB TRUCK",
+    "id": "476",
+    "group": "COMM"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "PANEL CADDY",
+    "id": "477",
+    "group": "COMM"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "SALOON",
+    "id": "478",
+    "group": "2"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "CONVERT",
+    "id": "47C",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "ISIS",
+    "id": "F42",
+    "group": "1"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "BORA",
+    "id": "47D",
+    "group": "2"
+  },
+  {
+    "make": "VOLKSWAGON",
+    "model": "PASSAT",
+    "id": "F54",
+    "group": "1"
+  },
+  {
+    "make": "VOLVO",
+    "model": "480ES SALOON",
+    "id": "480",
+    "group": "1"
+  },
+  {
+    "make": "VOLVO",
+    "model": "960 SALOON",
+    "id": "481",
+    "group": "2"
+  },
+  {
+    "make": "VOLVO",
+    "model": "740 GE SALOON",
+    "id": "GES",
+    "group": "2"
+  },
+  {
+    "make": "VOLVO",
+    "model": "CRANE TRUCK",
+    "id": "KT",
+    "group": "COMM"
+  },
+  {
+    "make": "VOLVO",
+    "model": "F12 TRACTOR HEAD",
+    "id": "B40",
+    "group": "COMM"
+  },
+  {
+    "make": "WACKER",
+    "model": "RD27-100 DD ROLLER",
+    "id": "DDR",
+    "group": "COMM"
+  },
+  {
+    "make": "YALE",
+    "model": "FORKLIFT",
+    "id": "FOK",
+    "group": "COMM"
+  },
+  {
+    "make": "YAMAHA",
+    "model": "MOTOR CYCLE",
+    "id": "483",
+    "group": "8"
+  },
+  {
+    "make": "YAMAHA",
+    "model": "ATV",
+    "id": "D76",
+    "group": "8"
+  }
+]

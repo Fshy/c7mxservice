@@ -1,0 +1,198 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+        <style>
+          .estgold{
+            background-color:#F89828;
+            color:#000000;
+          }
+          .estsub{
+            background-color:#36986e;
+          }
+          .form-group {
+            margin-bottom: 5px;
+          }
+          .jumbotron .form-group {
+            margin-right: -75px;
+            margin-left: -75px;
+          }
+        </style>
+      </head>
+    <body>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <!-- <div class="jumbotron"> -->
+      <div class="container">
+        <h2>Commercial Fire & Special Perils Incl. Catastrophe Perils</h2>
+        <hr>
+        <h4>Property Type</h4>
+        <strong>CLASS 1</strong><br>
+        <p style="max-width:800px">
+          Private Dwellings, Apartments, Offices, Banks, Churches, Hospitals, Schools, and Colleges & the like.
+        </p>
+        <strong>CLASS 2</strong><br>
+        <p style="max-width:800px">
+          Hotels, Restaurants, and Guest Houses.
+        </p>
+        <strong>CLASS 3</strong><br>
+        <p style="max-width:800px">
+          Retail / Wholesale Premises including Warehouse and other Non-Manufacturing risk.
+        </p>
+        <strong>CLASS 4</strong><br>
+        <p style="max-width:800px">
+          Manufacturing, Assembly, Garage and other similar Workshops.
+        </p>
+        <strong>CLASS 5</strong><br>
+        <p style="max-width:800px">
+          Woodworking, Upholstering and Chemical Works.
+        </p>
+        <strong>CLASS 6</strong><br>
+        <p style="max-width:800px">
+          Industrial, Cinemas and any other risk.
+        </p>
+        <hr>
+        <h4>Class of Construction</h4>
+        <strong>SUPERIOR</strong><br>
+        <p style="max-width:800px">
+          Building of reinforced concrete or concrete block with steel frame or brick or stone or combination with concrete roof or slate or tile on a steel or iron frame and no internal combustible materials, other than doors and window frames.
+        </p>
+        <strong>CLASS A</strong><br>
+        <p style="max-width:800px">
+          All external walls of brick, stone, clay or concrete/concrete block with roof of slates, tiles, concrete, stone, metal, asbestos cement sheeting or asphalt shingle or any incombustible material.
+        </p>
+        <strong>CLASS B</strong><br>
+        <p style="max-width:800px">
+          External Walls part Brick, Stone concrete and part metal or asbestos on steel or timber frame or “Butler Steel’ type structures with roof or asphalt shingle or any incombustible material.
+        </p>
+        <!-- <strong>CLASS C</strong><br>
+        <p style="max-width:800px">
+          Building of reinforced concrete or concrete block with steel frame or brick or stone or combination with concrete roof or slate or tile on a steel or iron frame and no internal combustible materials, other than doors and window frames.
+        </p> -->
+      </div>
+    <!-- </div> -->
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+          <form class="form-horizontal" autocomplete="off">
+              <hr>     
+              <div class="alert alert-info">Name, Email and Phone Number are required fields.</div>
+              <div class="form-group">
+                <label for="e-name" class="control-label col-xs-4">Name *</label>
+                <div class="col-xs-8 ui input error">
+                  <input id="e-name" name="e-name" type="text" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="e-email" class="control-label col-xs-4">Email *</label> 
+                <div class="col-xs-8 ui input error">
+                  <input id="e-email" name="e-email" type="email" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="e-phone" class="control-label col-xs-4">Phone Number *</label> 
+                <div class="col-xs-8 ui input error">
+                  <input id="e-phone" name="e-phone" type="tel" class="form-control">
+                </div>
+              </div>
+              <hr>          
+              <div class="form-group">
+                <label for="pval" class="control-label col-xs-4">Current Property Value</label> 
+                <div class="col-xs-8">
+                  <input id="pval" value="0" name="pval" type="number" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="class" class="control-label col-xs-4">Property Type</label> 
+                <div class="col-xs-8">
+                  <select id="class" name="class" class="select form-control">
+                    <option value="1">CLASS 1</option>
+                    <option value="2">CLASS 2</option>
+                    <option value="3">CLASS 3</option>
+                    <option value="4">CLASS 4</option>
+                    <option value="5">CLASS 5</option>
+                    <option value="6">CLASS 6</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="cons" class="control-label col-xs-4">Class of Construction</label> 
+                <div class="col-xs-8">
+                  <select id="cons" name="cons" class="select form-control">
+                    <option value="S">SUPERIOR</option>
+                    <option value="A">CLASS A</option>
+                    <option value="B">CLASS B</option>
+                  </select>
+                </div>
+              </div>
+              <hr>
+              <div class="form-group">
+                <label for="class" class="control-label col-xs-4">Is it more than 50% timber frame or "Butler Steel"?</label> 
+                <div class="col-xs-8">
+                  <select id="frame" name="frame" class="select form-control">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="class" class="control-label col-xs-4">Is the area prone to Flooding?</label> 
+                <div class="col-xs-8">
+                  <select id="flooding" name="flooding" class="select form-control">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="class" class="control-label col-xs-4">Is the area prone to Landslip?</label> 
+                <div class="col-xs-8">
+                  <select id="landslip" name="landslip" class="select form-control">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                  </select>
+                </div>
+              </div>
+              <div id="frameRes">
+              </div>
+              <hr>
+              <h3>Estimate</h3>
+              <hr>
+              <div class="jumbotron" style="background:#143D8D;color:white;">
+                <div class="container">
+                      <div class="form-group">
+                        <label for="total" class="control-label col-xs-4" style="color:#143D8D;">TOTAL</label> 
+                        <div class="col-xs-8">
+                          <input id="total" name="total" disabled type="text" class="form-control">
+                          <br><button type="button" class="btn btn-primary btn-md" id="sendbtn" onclick="sendEstimate()">
+                            <span class="glyphicon glyphicon-hourglass" aria-hidden="true"></span>
+                            Waiting for Form Completion...
+                          </button>
+                          <button type="button" class="btn btn-primary btn-md" id="csrBtn" onclick="sendToAgent()" style="display:none; margin-top:10px;">
+                            <span class="glyphicon glyphicon-send" aria-hidden="true"></span>
+                            Send Estimate to CSR
+                          </button>
+                        </div>
+                      </div>
+                </div>
+              </div>
+              <p>
+                <strong>Disclaimer: </strong>This quotation is an estimate only and is subject to change upon additional information provided.
+              </p>
+            </form>
+      </div>
+    </div> <!-- /container -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.contentWindow.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.all.js"></script>
+    <script src="main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,420 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+        <style>
+          .estgold{
+            color:#000000;
+          }
+          input#est15 {
+            color: black;
+            background: none;
+            height: 75px;
+            font-size: 15px;
+          }
+          .form-group {
+            margin-bottom: 5px;
+          }
+          .jumbotron .form-group {
+            margin-right: -75px;
+            margin-left: -75px;
+          }
+          .form-control {
+            border-radius: 0;
+            border: none;
+            box-shadow: none;
+            background-color: rgb(242, 242, 242);
+            padding: 10px;
+            height: unset;
+          }
+          .form-control:focus {
+            border: 1px solid #b7b7b7;
+            box-shadow: none;
+          }
+        </style>
+      </head>
+    <body>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <!-- <div class="jumbotron"> -->
+      <div class="container">
+        <h2>Private 3rd Party Calculator</h2>
+        <div class="ui column three ordered steps">
+          <div class="active step" id="step1">
+            <div class="content">
+              <div class="title">Driver/Vehicle Details</div>
+              <div class="description">Enter vehicle information</div>
+            </div>
+          </div>
+          <div class="step" id="step2">
+            <div class="content">
+              <div class="title">Claims</div>
+              <div class="description">Enter claims information</div>
+            </div>
+          </div>
+          <div class="step" id="step3">
+              <div class="content">
+                <div class="title">Estimate</div>
+                <div class="description">View final estimate</div>
+              </div>
+            </div>
+        </div>
+      </div>
+    <!-- </div> -->
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+          <form class="form-horizontal" autocomplete="off">
+            <div id="section1">
+              <hr>
+              <h3>Driver/Vehicle Details</h3>
+              <hr>
+              <div class="alert alert-info">Name, Email and Phone Number are required fields.</div>
+
+              <div class="form-group">
+                <label for="e-name" class="control-label col-xs-4">Name *</label>
+                <div class="col-xs-8 ui input error">
+                  <input id="e-name" name="e-name" type="text" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="e-email" class="control-label col-xs-4">Email *</label> 
+                <div class="col-xs-8 ui input error">
+                  <input id="e-email" name="e-email" type="email" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="e-phone" class="control-label col-xs-4">Phone Number *</label> 
+                <div class="col-xs-8 ui input error">
+                  <input id="e-phone" name="e-phone" type="tel" class="form-control">
+                </div>
+              </div>
+              <hr>
+
+              <div class="form-group">
+                <label for="ncd-dob" class="control-label col-xs-4">Date-of-Birth</label> 
+                <div class="col-xs-8 ui input error">
+                  <input id="ncd-dob" name="ncd-dob" type="date" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                  <label for="driverlicenseyear" class="control-label col-xs-4">Year License Obtained</label> 
+                  <div class="col-xs-8">
+                    <input id="driverlicenseyear" name="driverlicenseyear" type="number" class="form-control">
+                  </div>
+                </div>
+              <div class="form-group">
+                <label for="driverage" class="control-label col-xs-4">Age</label> 
+                <div class="col-xs-8">
+                  <input disabled id="driverage" name="driverage" type="number" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="chk-flag1" class="control-label col-xs-4">Will anyone driving the motor vehicle</label> 
+                <div class="col-xs-8">
+                  <input type="checkbox" name="chk-flag1" id="chk-flag1" value="Yes - Have less than two years regular driving experience"> Have less than two years regular driving experience?<br>
+                  <input type="checkbox" name="chk-flag2" id="chk-flag2" value="Yes - Be less than 25 years of age"> Be less than 25 years of age?<br>
+                </div>
+              </div>
+              <div id="ageAlert"></div>
+              <div class="form-group">
+                <label for="country" class="control-label col-xs-4">Country</label> 
+                <div class="col-xs-8">
+                  <select id="country" name="country" class="select form-control">
+                    <option value="SLU">SLU</option>
+                    <option value="Other">Other</option>
+                  </select>
+                </div>
+              </div>
+              <hr>
+              <!-- <h3>Vehicle</h3>
+              <hr> -->
+              <!-- <div class="form-group">
+                <label for="currentvalue" class="control-label col-xs-4">Current Vehicle Value (min. $15k)</label> 
+                <div class="col-xs-8">
+                  <input id="currentvalue" name="currentvalue" type="number" class="form-control">
+                </div>
+              </div> -->
+              <div class="form-group">
+                <label for="enginesize" class="control-label col-xs-4">Engine Size (cc)</label> 
+                <div class="col-xs-8">
+                  <input id="enginesize" name="enginesize" type="number" placeholder="e.g. 1800" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="currentbasepremium" class="control-label col-xs-4">Current Base Premium</label> 
+                <div class="col-xs-8">
+                  <input id="currentbasepremium" name="currentbasepremium" disabled type="text" class="form-control">
+                </div>
+              </div>
+
+              <hr>
+              <!-- <h3>Loading Calculations</h3>
+              <hr> -->
+              <div class="form-group">
+                <label for="handdrive" class="control-label col-xs-4">Left or Right Hand Drive</label> 
+                <div class="col-xs-8">
+                  <select id="handdrive" name="handdrive" class="select form-control">
+                    <option value="RHD">RHD</option>
+                    <option value="LHD">LHD</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="enginesizeloading" class="control-label col-xs-4">Engine Size % Loading (Only if LHD)</label> 
+                <div class="col-xs-8">
+                  <input id="enginesizeloading" name="enginesizeloading" disabled type="text" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="businessuse" class="control-label col-xs-4">Business Use</label> 
+                <div class="col-xs-8">
+                  <select id="businessuse" name="businessuse" class="select form-control">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="loadingbusinessuse" class="control-label col-xs-4">Loading for Business Use</label> 
+                <div class="col-xs-8">
+                  <input id="loadingbusinessuse" name="loadingbusinessuse" disabled type="text" class="form-control">
+                </div>
+              </div>
+            </div>
+            <div id="section2" style="display: none;">
+              <hr>
+              <h3>Claims</h3>
+              <hr>
+
+              <div class="form-group">
+                <label for="drivingexp" class="control-label col-xs-4">Driving Experience (Yrs with no accidents)</label> 
+                <div class="col-xs-8">
+                  <select id="drivingexp" name="drivingexp" class="select form-control">
+                    <option value="0-4">0 - 4 years</option>
+                    <option value="5-10">5 - 10 years</option>
+                    <option value=">10">Over 10 years</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="dexpdisc" class="control-label col-xs-4">Driving Experience Discount</label> 
+                <div class="col-xs-8">
+                  <input id="dexpdisc" name="dexpdisc" disabled type="text" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="permemp" class="control-label col-xs-4">Profession</label> 
+                <div class="col-xs-8">
+                  <select id="permemp" name="permemp" class="select form-control">
+                    <option value="no">Bartender</option>
+                    <option value="no">DJ</option>
+                    <option value="no">Musician</option>
+                    <option value="no">Sales Person</option>
+                    <option value="yes">Other</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="empdisc" class="control-label col-xs-4">Professional Permanent Employment Discount</label> 
+                <div class="col-xs-8">
+                  <input id="empdisc" name="empdisc" disabled type="text" class="form-control">
+                </div>
+              </div>
+              <!-- <div class="form-group">
+                <label for="descdisc" class="control-label col-xs-4">Apply Descretionary 10%?</label> 
+                <div class="col-xs-8">
+                  <select id="descdisc" name="descdisc" class="select form-control">
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                  </select>
+                </div>
+              </div> -->
+              <div class="form-group">
+                <label for="descdiscassign" class="control-label col-xs-4">Descretionary Discount Assigned</label> 
+                <div class="col-xs-8">
+                  <input id="descdiscassign" name="descdiscassign" disabled type="text" class="form-control">
+                </div>
+              </div>
+
+              <!-- <hr>
+              <h3>Fire & Theft</h3>
+              <hr>
+
+              <div class="form-group">
+                <label for="firetheft" class="control-label col-xs-4">Fire & Theft Charge</label> 
+                <div class="col-xs-8">
+                  <input id="firetheft" name="firetheft" disabled type="text" class="form-control">
+                </div>
+              </div> -->
+
+              <hr>
+              <!-- <h3>No Claim Discount</h3>
+              <hr> -->
+              <div class="form-group">
+                <label for="previousyears" class="control-label col-xs-4">Number of Previous Years with Continuous Insurance</label> 
+                <div class="col-xs-8">
+                  <input id="previousyears" value="0" name="previousyears" type="number" class="form-control">
+                </div>
+              </div>
+              <div class="form-group" id="claimsinpastrow" style="background-color:rgb(218, 240, 255)">
+              </div>
+              <div class="form-group" id="claimdaterow" style="background-color:rgb(218, 240, 255)">
+              </div>
+              <div class="form-group" id="claimvalrow" style="background-color:rgb(218, 240, 255)">
+              </div>
+              <div class="form-group">
+                <label for="ncdyear" class="control-label col-xs-4">Years Since Claim</label> 
+                <div class="col-xs-8">
+                  <input disabled id="ncdyear" name="ncdyear" type="number" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="claimvalue" class="control-label col-xs-4">Value of Claim</label> 
+                <div class="col-xs-8">
+                  <input disabled id="claimvalue" name="claimvalue" type="number" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="adjncd" class="control-label col-xs-4">Adjusted NCD (After Claim Adjustment)</label> 
+                <div class="col-xs-8">
+                  <input id="adjncd" name="adjncd" disabled type="text" class="form-control">
+                </div>
+              </div>
+
+              <!-- <div class="form-group row">
+                <div class="col-xs-offset-4 col-xs-8">
+                  <button name="submit" type="submit" disabled class="btn btn-primary">Submit</button>
+                </div>
+              </div> -->
+            </div>
+            <br><button class="fluid ui button huge blue" id="next" disabled="disabled">Next Section <i class="angle right icon"></i></button>
+            <div id="section3" style="display: none;">
+              <hr>
+              <h3>Estimate</h3>
+              <hr>
+              <div class="jumbotron" >
+                <div class="container">
+                    <div class="form-group">
+                        <label for="est1" class="control-label col-xs-4">Base Premium</label> 
+                        <div class="col-xs-8">
+                          <input id="est1" name="est1" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <!-- <hr>
+                      <h4> + Loadings</h4> -->
+                      <div class="form-group">
+                        <label for="est2-5" class="control-label col-xs-4">Loading for Business Use</label> 
+                        <div class="col-xs-8">
+                          <input id="est2-5" name="est2-5" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="est3" class="control-label col-xs-4">LHD Engine Size Loading</label> 
+                        <div class="col-xs-8">
+                          <input id="est3" name="est3" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group estsub">
+                        <label for="est4" class="control-label col-xs-4">Sub Total</label> 
+                        <div class="col-xs-8">
+                          <input id="est4" name="est4" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <!-- <hr>
+                      <h4> - Discounts</h4> -->
+                      <div class="form-group">
+                        <label for="est6" class="control-label col-xs-4">Driving Experience</label> 
+                        <div class="col-xs-8">
+                          <input id="est6" name="est6" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="est7" class="control-label col-xs-4">Professional Employment</label> 
+                        <div class="col-xs-8">
+                          <input id="est7" name="est7" disabled type="text" class="form-control">
+                        </div>
+                      </div>  
+                      <div class="form-group">
+                        <label for="est8" class="control-label col-xs-4">Descretionary Discount</label> 
+                        <div class="col-xs-8">
+                          <input id="est8" name="est8" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group estsub">
+                        <label for="est9" class="control-label col-xs-4">Sub Total</label> 
+                        <div class="col-xs-8">
+                          <input id="est9" name="est9" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <!-- <hr>
+                      <h4> + Fire & Theft	</h4>
+                      <div class="form-group">
+                        <label for="est10" class="control-label col-xs-4">Fire & Theft Charge</label> 
+                        <div class="col-xs-8">
+                          <input id="est10" name="est10" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group estsub">
+                        <label for="est11" class="control-label col-xs-4">Sub Total</label> 
+                        <div class="col-xs-8">
+                          <input id="est11" name="est11" disabled type="text" class="form-control">
+                        </div>
+                      </div> -->
+                      <!-- <hr>
+                      <h4> - No Claim Discount </h4> -->
+                      <div class="form-group">
+                        <label for="est5" class="control-label col-xs-4">NCD Value</label> 
+                        <div class="col-xs-8">
+                          <input id="est5" name="est5" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <div class="form-group estsub">
+                        <label for="est13" class="control-label col-xs-4">GROSS PREMIUM</label> 
+                        <div class="col-xs-8">
+                          <input id="est13" name="est13" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <!-- <hr> -->
+                      <div class="form-group">
+                        <label for="est14" class="control-label col-xs-4">+ 5% Tax (SLU Only)</label> 
+                        <div class="col-xs-8">
+                          <input id="est14" name="est14" disabled type="text" class="form-control">
+                        </div>
+                      </div>
+                      <br>
+                      <div class="form-group estgold" >
+                        <!-- <label for="est15" class="control-label col-xs-4">TOTAL PREMIUM</label>  -->
+                        <div class="col-xs-12">
+                          <div id="est15"></div>
+                        </div>
+                        <div class="col-xs-12">
+                          <button type="button" onclick="submitToAgent()" class="btn btn-primary">
+                            <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Submit to a CSR
+                          </button>
+                        </div>
+                      </div>
+                </div>
+              </div>
+              <p>
+                <strong>Disclaimer: </strong>This quotation is an estimate only and is subject to change upon additional information provided.
+              </p>
+            </div>
+
+            </form>
+      </div>
+    </div> <!-- /container -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.contentWindow.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.js"></script>
+    <script src="main.js"></script>
+    </body>
+</html>
